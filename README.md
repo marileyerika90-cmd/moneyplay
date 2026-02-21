@@ -1,6 +1,3 @@
-git init
-git add .
-git commit -m "MoneyPlay versão inicial"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/moneyplay_app.git
-git push -u origin main
+# MoneyPlay
+
+MoneyPlay is a project designed to manage your personal finances efficiently and effectively. It helps you track your spending, create budgets, and analyze your financial habits.
